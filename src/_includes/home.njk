@@ -1,0 +1,13 @@
+---
+layout: "base.njk"
+---
+
+{% include "header.njk" %}
+<div class="feed">
+    {% for posts in collections.posts %}
+        <a href="{{posts.url}}"><div class="feed-post">
+            <h2>{{posts.data.title}}</h2>
+            <p> {{posts.data.preview}} </p>
+        </div></a>
+    {% endfor %}
+</div>

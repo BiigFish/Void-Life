@@ -1,0 +1,11 @@
+---
+layout: "base.njk"
+---
+{% include "header.njk" %}
+<div class="post-text">
+    <h2>{{ title }}</h2>
+    {{ content | safe}}
+    <div class="return-button">
+        <a href="/">Return Home</a>
+    </div>
+</div>
