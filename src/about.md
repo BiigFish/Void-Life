@@ -12,4 +12,4 @@ A website documenting life on the Edge of the Void.
 
 **What are you going to do about it:** Write this blog of life on the edge.
 
-**How do I learn more:** Go to [www.youtube.com](https://www.youtube.com)
+**How do I learn more:** Go to [www.voidlife.ratnotebook.com](http://voidlife.ratnotebook.com/)
